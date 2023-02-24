@@ -1,23 +1,23 @@
 # Java-and-Spring-Learning-Materials
 This repository will explore top learning materials for Java and Spring, including online tutorials, books, and courses to help you enhance your skills and advance your career.
 
-## Java and Spring Learning Materials
+# Java and Spring Learning Materials
 
-##Chapter 1: Fundamentals of Java
+## Chapter 1: Fundamentals of Java
 
-##Chapter 2: Intermediate Java
+## Chapter 2: Intermediate Java
 
-##Chapter 3: Advanced Java
+## Chapter 3: Advanced Java
 
-##Chapter 4: Java Build Tools
+## Chapter 4: Java Build Tools
 
-##Chapter 5: Java EE
+## Chapter 5: Java EE
 
-##Chapter 6: Clean Code and Design Patterns
+## Chapter 6: Clean Code and Design Patterns
 
-#Chapter 7: Java Spring Framework and Spring Boot
+# Chapter 7: Java Spring Framework and Spring Boot
 
-##Chapter 1: Fundamentals of Java
+# Chapter 1: Fundamentals of Java
 
 1.1 Primitives
 
@@ -182,14 +182,16 @@ How to Count Duplicate Elements in Arraylist
 Finding the Differences Between Two Lists in Java
 Reversing a Linked List in Java
 Assert Two Lists for Equality Ignoring Order in Java
-Set:
+
+## Set:
+
 https://www.codejava.net/java-core/collections/java-set-collection-tutorial-and-examples
 
 https://www.baeldung.com/java-tree-set
 
 https://www.baeldung.com/java-hashset
 
-Map:
+## Map:
 
 https://www.baeldung.com/java-hashmap
 
@@ -222,11 +224,13 @@ A Guide to Iterator in Java
 
 https://www.baeldung.com/java-collections-complexity
 
+
 2.2 Generics
 
 https://www.baeldung.com/java-generics
 
 http://tutorials.jenkov.com/java-generics/wildcards.html (Optional)
+
 
 2.3 Streams and Lambdas
 
@@ -241,6 +245,7 @@ https://www.capitalone.com/tech/software-engineering/java-streams-explained-simp
 Video Tutorials from java brains - https://www.youtube.com/watch?v=gpIUfj3KaOc&list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3&ab_channel=JavaBrains
 
 https://github.com/winterbe/java8-tutorial
+
 
 2.4 Optional
 
