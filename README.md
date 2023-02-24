@@ -15,7 +15,7 @@ This repository will explore top learning materials for Java and Spring, includi
 
 ## Chapter 6: Clean Code and Design Patterns
 
-# Chapter 7: Java Spring Framework and Spring Boot
+## Chapter 7: Java Spring Framework and Spring Boot
 
 # Chapter 1: Fundamentals of Java
 
